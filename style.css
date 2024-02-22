@@ -1,0 +1,15 @@
+div{
+    background-color:pink;
+    text-align:center;
+    justify-items: center;
+    width: 40%;
+    border: 1px solid black;
+
+}
+
+.delete:hover{
+    background-color:red;
+}
+.add:hover{
+    background-color:green;
+}
